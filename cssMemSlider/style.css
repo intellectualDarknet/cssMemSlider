@@ -73,6 +73,7 @@ body {
   height: 100%;
   min-width: 1025px;
   max-width: 1025px;
+  max-height: 80vh;
 }
 
 @media screen and (min-width: 1281px) {

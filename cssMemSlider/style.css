@@ -270,6 +270,25 @@ body {
   margin-left: -400%;
 }
 
+.header__input1:checked ~ .header__navigation .bar1 {
+  background-color: #e0945b;
+}
+
+.header__input2:checked ~ .header__navigation .bar2 {
+  background-color: #e0945b;
+}
+
+.header__input3:checked ~ .header__navigation .bar3 {
+  background-color: #e0945b;
+}
+
+.header__input4:checked ~ .header__navigation .bar4 {
+  background-color: #e0945b;
+}
+
+.header__input5:checked ~ .header__navigation .bar5 {
+  background-color: #e0945b;
+}
 
 input[name="r"] {
   display: none;
